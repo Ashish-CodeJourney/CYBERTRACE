@@ -1,7 +1,7 @@
 # CYBERTRACE
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
-<img src="https://github.com/ashishworkshere/CYBERTRACE/asset/bn.png"/>
+<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/bn.png"/>
 
 ```Version 1.0```
 
@@ -27,13 +27,13 @@ python3 CYBERTRACE.py
 
 Display on the menu ```IP Tracker```
 
-<img src="https://github.com/ashishworkshere/CYBERTRACE/asset/ip.png " />
+<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/ip.png " />
 
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 
 Display on the menu ```Phone Tracker```
 
-<img src="https://github.com/ashishworkshere/CYBERTRACE/asset/phone.png" />
+<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/phone.png" />
 
 on this menu you can search for information from the target phone number
 
