@@ -1,10 +1,10 @@
-# CYBERTRACE
-
+# GhostTrack
 Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/bn.png"/>
 
-```Version 1.1```
+New update :
+```Version 2.2```
 
 ### Instalation on Linux (deb)
 ```
@@ -40,5 +40,5 @@ on this menu you can search for information from the target phone number
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/ashishworkshere">ashishworkshere</a></strong>
+- <strong><a href="https://github.com/ashishworkshere">HunxByts</a></strong>
 </details>
