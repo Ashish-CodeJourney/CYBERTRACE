@@ -3,8 +3,7 @@ Useful tool to track location or mobile number, so this tool can be called osint
 
 <img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/bn.png"/>
 
-New update :
-```Version 2.2```
+```Version 1.0```
 
 ### Instalation on Linux (deb)
 ```
@@ -23,7 +22,7 @@ pkg install python3
 git clone https://github.com/ashishworkshere/CYBERTRACE.git
 cd GhostTrack
 pip3 install -r requirements.txt
-python3 GhostTR.py
+python3 CYBERTRACE.py
 ```
 
 Display on the menu ```IP Tracker```
