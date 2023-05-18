@@ -37,7 +37,7 @@ Display on the menu ```Show Your IP```
      
 Display on the menu ```Phone Tracker```
 
-![ScreenShot](https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/phone.png)
+<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/phone.png"/>
 
 on this menu you can search for information from the target phone number
 
