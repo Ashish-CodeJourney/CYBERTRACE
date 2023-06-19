@@ -1,5 +1,5 @@
 # CYBERTRACE
-Useful tool to track location or mobile number, so this tool can be called osint or also information gathering
+Information Gathering tool to track location or mobile number, so this tool can be called osint or also information gathering
 
 <img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/bn.png"/>
 
