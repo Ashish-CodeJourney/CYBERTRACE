@@ -27,7 +27,7 @@ python3 CYBERTRACE.py
 
 Display on the menu ```IP Tracker```
 ```
-<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/ip.png" />
+<img src="https://github.com/ashishworkshere/CYBERTRACE/blob/main/asset/ip.png"/>
 ```
 on the IP Track menu, you can combo with the seeker tool to get the target IP
 
