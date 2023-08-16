@@ -40,7 +40,7 @@ on this menu you can search for information from the target phone number
 <details>
 <summary>:zap: Author :</summary>
 ```
-- <strong><a href="https://github.com/ashishworkshere">ashishworkshere</a></strong>
+- <strong><a href="https://github.com/Ashish-CodeJourney">ashishworkshere</a></strong>
 ````
 </details>
 
