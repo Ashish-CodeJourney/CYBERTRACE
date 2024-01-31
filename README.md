@@ -39,8 +39,8 @@ on this menu you can search for information from the target phone number
 
 <details>
 <summary>:zap: Author :</summary>
-```
-- <strong><a href="https://github.com/Ashish-CodeJourney">Ashish-CodeJourney</a></strong>
-````
-</details>
+
+<strong><a href="https://github.com/Ashish-CodeJourney">Ashish-CodeJourney</a></strong>
+
+
 
