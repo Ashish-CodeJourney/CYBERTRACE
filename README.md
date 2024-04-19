@@ -20,7 +20,7 @@ pkg install python3
 ### Usage Tool
 ```
 git clone https://github.com/ashishworkshere/CYBERTRACE.git
-cd GhostTrack
+cd CYBERTRACE
 pip3 install -r requirements.txt
 python3 CYBERTRACE.py
 ```
