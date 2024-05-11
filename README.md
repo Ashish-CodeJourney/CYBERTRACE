@@ -37,10 +37,6 @@ Display on the menu ```Phone Tracker```
 
 on this menu you can search for information from the target phone number
 
-<details>
-<summary>:zap: Author :</summary>
-```
-- <strong><a href="https://github.com/Ashish-CodeJourney">Ashish-CodeJourney</a></strong>
-````
-</details>
+---
 
+<h5 align='center'>© 2022-23 Ashish-CodeJourney.</h5>
